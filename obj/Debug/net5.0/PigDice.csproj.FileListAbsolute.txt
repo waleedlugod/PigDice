@@ -1,0 +1,16 @@
+C:\Users\lugod\source\repos\PigDice\bin\Debug\net5.0\PigDice.exe
+C:\Users\lugod\source\repos\PigDice\bin\Debug\net5.0\PigDice.deps.json
+C:\Users\lugod\source\repos\PigDice\bin\Debug\net5.0\PigDice.runtimeconfig.json
+C:\Users\lugod\source\repos\PigDice\bin\Debug\net5.0\PigDice.runtimeconfig.dev.json
+C:\Users\lugod\source\repos\PigDice\bin\Debug\net5.0\PigDice.dll
+C:\Users\lugod\source\repos\PigDice\bin\Debug\net5.0\ref\PigDice.dll
+C:\Users\lugod\source\repos\PigDice\bin\Debug\net5.0\PigDice.pdb
+C:\Users\lugod\source\repos\PigDice\obj\Debug\net5.0\PigDice.csprojAssemblyReference.cache
+C:\Users\lugod\source\repos\PigDice\obj\Debug\net5.0\PigDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lugod\source\repos\PigDice\obj\Debug\net5.0\PigDice.AssemblyInfoInputs.cache
+C:\Users\lugod\source\repos\PigDice\obj\Debug\net5.0\PigDice.AssemblyInfo.cs
+C:\Users\lugod\source\repos\PigDice\obj\Debug\net5.0\PigDice.csproj.CoreCompileInputs.cache
+C:\Users\lugod\source\repos\PigDice\obj\Debug\net5.0\PigDice.dll
+C:\Users\lugod\source\repos\PigDice\obj\Debug\net5.0\ref\PigDice.dll
+C:\Users\lugod\source\repos\PigDice\obj\Debug\net5.0\PigDice.pdb
+C:\Users\lugod\source\repos\PigDice\obj\Debug\net5.0\PigDice.genruntimeconfig.cache
